@@ -1,0 +1,9 @@
+# Node
+frontend/node_modules/
+
+# Python
+myvenv/
+__pycache__/
+
+# Env
+.env
