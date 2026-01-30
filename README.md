@@ -2,6 +2,7 @@
 
 A backend application built using **FastAPI** and **PostgreSQL** to manage and track products/plans through RESTful APIs.  
 This project demonstrates CRUD operations, database integration, and modular backend structure suitable for scalable applications.
+It basically demonstrated CRUD APIs
 
 ---
 
@@ -30,4 +31,5 @@ This project demonstrates CRUD operations, database integration, and modular bac
 ---
 
 ## 📂 Project Structure
+
 
